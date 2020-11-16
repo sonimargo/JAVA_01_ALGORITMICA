@@ -1,7 +1,7 @@
 package practica1;
 
 // Imprimier segundos en una año
-public class Ejercicio5
+public class Ejercicio05
 {
 	public static void main(String[] args)
 	{

@@ -4,7 +4,7 @@ package practica1;
 import java.util.Scanner;
 
 // Imprimir la suma de dos numeros 
-public class Ejercicio6
+public class Ejercicio06
 {
 		public static void main(String[] args)
 		{
